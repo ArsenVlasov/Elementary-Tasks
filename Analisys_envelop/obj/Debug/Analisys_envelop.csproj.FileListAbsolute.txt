@@ -1,0 +1,14 @@
+E:\Task_homework_23.04\Analisys_envelop\obj\Debug\Analisys_envelop.csprojAssemblyReference.cache
+E:\Task_homework_23.04\Analisys_envelop\obj\Debug\Analisys_envelop.csproj.CoreCompileInputs.cache
+E:\Task_homework_23.04\Analisys_envelop\bin\Debug\Analisys_envelop.exe.config
+E:\Task_homework_23.04\Analisys_envelop\bin\Debug\Analisys_envelop.exe
+E:\Task_homework_23.04\Analisys_envelop\bin\Debug\Analisys_envelop.pdb
+E:\Task_homework_23.04\Analisys_envelop\obj\Debug\Analisys_envelop.exe
+E:\Task_homework_23.04\Analisys_envelop\obj\Debug\Analisys_envelop.pdb
+E:\SoftServe\Task_homework_23.04\Analisys_envelop\bin\Debug\Analisys_envelop.exe.config
+E:\SoftServe\Task_homework_23.04\Analisys_envelop\bin\Debug\Analisys_envelop.exe
+E:\SoftServe\Task_homework_23.04\Analisys_envelop\bin\Debug\Analisys_envelop.pdb
+E:\SoftServe\Task_homework_23.04\Analisys_envelop\obj\Debug\Analisys_envelop.csprojAssemblyReference.cache
+E:\SoftServe\Task_homework_23.04\Analisys_envelop\obj\Debug\Analisys_envelop.csproj.CoreCompileInputs.cache
+E:\SoftServe\Task_homework_23.04\Analisys_envelop\obj\Debug\Analisys_envelop.exe
+E:\SoftServe\Task_homework_23.04\Analisys_envelop\obj\Debug\Analisys_envelop.pdb

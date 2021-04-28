@@ -1,0 +1,7 @@
+E:\SoftServe\Task_homework_23.04\Happy_tickets\bin\Debug\Happy_tickets.exe.config
+E:\SoftServe\Task_homework_23.04\Happy_tickets\bin\Debug\Happy_tickets.exe
+E:\SoftServe\Task_homework_23.04\Happy_tickets\bin\Debug\Happy_tickets.pdb
+E:\SoftServe\Task_homework_23.04\Happy_tickets\obj\Debug\Happy_tickets.csproj.CoreCompileInputs.cache
+E:\SoftServe\Task_homework_23.04\Happy_tickets\obj\Debug\Happy_tickets.exe
+E:\SoftServe\Task_homework_23.04\Happy_tickets\obj\Debug\Happy_tickets.pdb
+E:\SoftServe\Task_homework_23.04\Happy_tickets\obj\Debug\Happy_tickets.csprojAssemblyReference.cache

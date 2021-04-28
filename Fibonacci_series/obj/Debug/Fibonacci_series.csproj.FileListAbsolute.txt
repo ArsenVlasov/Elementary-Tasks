@@ -1,0 +1,6 @@
+E:\SoftServe\Task_homework_23.04\Fibonacci_series\bin\Debug\Fibonacci_series.exe.config
+E:\SoftServe\Task_homework_23.04\Fibonacci_series\bin\Debug\Fibonacci_series.exe
+E:\SoftServe\Task_homework_23.04\Fibonacci_series\bin\Debug\Fibonacci_series.pdb
+E:\SoftServe\Task_homework_23.04\Fibonacci_series\obj\Debug\Fibonacci_series.csproj.CoreCompileInputs.cache
+E:\SoftServe\Task_homework_23.04\Fibonacci_series\obj\Debug\Fibonacci_series.exe
+E:\SoftServe\Task_homework_23.04\Fibonacci_series\obj\Debug\Fibonacci_series.pdb

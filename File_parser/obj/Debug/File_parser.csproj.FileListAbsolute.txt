@@ -1,0 +1,7 @@
+E:\SoftServe\Task_homework_23.04\File_parser\bin\Debug\File_parser.exe.config
+E:\SoftServe\Task_homework_23.04\File_parser\bin\Debug\File_parser.exe
+E:\SoftServe\Task_homework_23.04\File_parser\bin\Debug\File_parser.pdb
+E:\SoftServe\Task_homework_23.04\File_parser\obj\Debug\File_parser.csprojAssemblyReference.cache
+E:\SoftServe\Task_homework_23.04\File_parser\obj\Debug\File_parser.csproj.CoreCompileInputs.cache
+E:\SoftServe\Task_homework_23.04\File_parser\obj\Debug\File_parser.exe
+E:\SoftServe\Task_homework_23.04\File_parser\obj\Debug\File_parser.pdb

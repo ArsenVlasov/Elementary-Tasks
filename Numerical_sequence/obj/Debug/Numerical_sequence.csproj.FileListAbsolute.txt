@@ -1,0 +1,6 @@
+E:\SoftServe\Task_homework_23.04\Numerical_sequence\bin\Debug\Numerical_sequence.exe.config
+E:\SoftServe\Task_homework_23.04\Numerical_sequence\bin\Debug\Numerical_sequence.exe
+E:\SoftServe\Task_homework_23.04\Numerical_sequence\bin\Debug\Numerical_sequence.pdb
+E:\SoftServe\Task_homework_23.04\Numerical_sequence\obj\Debug\Numerical_sequence.csproj.CoreCompileInputs.cache
+E:\SoftServe\Task_homework_23.04\Numerical_sequence\obj\Debug\Numerical_sequence.exe
+E:\SoftServe\Task_homework_23.04\Numerical_sequence\obj\Debug\Numerical_sequence.pdb

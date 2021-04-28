@@ -1,0 +1,7 @@
+E:\SoftServe\Task_homework_23.04\Samples_in_words\bin\Debug\Samples_in_words.exe.config
+E:\SoftServe\Task_homework_23.04\Samples_in_words\bin\Debug\Samples_in_words.exe
+E:\SoftServe\Task_homework_23.04\Samples_in_words\bin\Debug\Samples_in_words.pdb
+E:\SoftServe\Task_homework_23.04\Samples_in_words\obj\Debug\Samples_in_words.csproj.CoreCompileInputs.cache
+E:\SoftServe\Task_homework_23.04\Samples_in_words\obj\Debug\Samples_in_words.exe
+E:\SoftServe\Task_homework_23.04\Samples_in_words\obj\Debug\Samples_in_words.pdb
+E:\SoftServe\Task_homework_23.04\Samples_in_words\obj\Debug\Samples_in_words.csprojAssemblyReference.cache
